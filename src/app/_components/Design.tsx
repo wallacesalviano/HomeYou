@@ -3,10 +3,6 @@ import design from "/public/assets/design.png"
 import Link from "next/link";
 import { motion } from "framer-motion"
 import {
-    fadeIn,
-    slideInFromBottom,
-    slideInFromLeft,
-    slideInFromRight,
     slideInFromTop
 } from '@/lib/Motion';
 

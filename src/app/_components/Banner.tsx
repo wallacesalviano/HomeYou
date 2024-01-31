@@ -4,8 +4,6 @@ import banner from "/public/assets/bannerimg.png"
 import Image from 'next/image';
 import { motion } from "framer-motion"
 import {
-    fadeIn,
-    slideInFromLeft,
     slideInFromRight,
     slideInFromTop
 } from '@/lib/Motion';

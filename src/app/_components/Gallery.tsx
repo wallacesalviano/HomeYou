@@ -4,10 +4,6 @@ import img2 from "/public/assets/img2.png"
 import img3 from "/public/assets/img3.png"
 import { motion } from "framer-motion"
 import {
-    fadeIn,
-    slideInFromBottom,
-    slideInFromLeft,
-    slideInFromRight,
     slideInFromTop
 } from '@/lib/Motion';
 

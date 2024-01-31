@@ -1,8 +1,5 @@
-import { Button } from "./Button";
 import { motion } from "framer-motion"
 import {
-    fadeIn,
-    slideInFromBottom,
     slideInFromLeft,
     slideInFromRight,
     slideInFromTop
